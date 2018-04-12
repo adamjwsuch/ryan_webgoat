@@ -166,7 +166,7 @@
         <module>webgoat-container</module>
     </modules>
 
-    <distributionManagement>
+<!--    <distributionManagement>
         <snapshotRepository>
             <id>N3_repo</id>
             <url>http://localhost:8081/repository/maven-releases/ryan</url>
@@ -175,7 +175,7 @@
             <id>N3_repo</id>
             <url>http://localhost:8081/repository/maven-releases/</url>
         </repository>
-    </distributionManagement>
+    </distributionManagement> -->
 
     <pluginRepositories>
         <pluginRepository>
