@@ -168,11 +168,12 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>N3_repo</id>
+            <id>snap1</id>
+            <uniqueVersion>true</uniqueVersion>
             <url>http://192.168.0.10:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
-            <id>N3_repo</id>
+            <id>repo1</id>
             <url>http://192.168.0.10:8081/repository/maven-releases/</url>
         </repository>
     </distributionManagement>
