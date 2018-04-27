@@ -170,11 +170,11 @@
         <snapshotRepository>
             <id>snap1</id>
             <uniqueVersion>true</uniqueVersion>
-            <url>http://192.168.0.10:8081/repository/maven-snapshots/</url>
+            <url>http://10.0.0.1:8081/repository/staging-dev/</url>
         </snapshotRepository>
         <repository>
             <id>repo1</id>
-            <url>http://192.168.0.10:8081/repository/maven-releases/</url>
+            <url>http://10.0.0.1:8081/repository/staging-dev/</url>
         </repository>
     </distributionManagement>
 
